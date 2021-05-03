@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PranavDalvi
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning Python, JavaScript, C/C++
+- 🌱 I’m currently learning JavaScript
 - 📫 contact me on Email id: 5kchqvw6r@relay.firefox.com
 <!-- 💞️ I’m looking to collaborate on-->
 
