@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PranavDalvi
-- 👀 I’m interested in App Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
-- 📫 contact me on Email id: 5kchqvw6r@relay.firefox.com
+- 📫 contact me on Email id: pranavdalvi8@protonmail.com
 <!-- 💞️ I’m looking to collaborate on-->
 
 <!---
