@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @PranavDalvi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-<!-- - 📫 contact me on Email id: pranavdalvi8@protonmail.com -->
+- 🌱 I’m currently learning JavaScript & ReactJS
+- 📫 contact me on Email id: pranavdalvi627@gmail.com
+
+- Looking for my personal creations? Head to [GitLab](https://gitlab.com/PranavDalvi)
 <!-- 💞️ I’m looking to collaborate on-->
 
 <!---
