@@ -5,6 +5,7 @@
 - Currently I shifted my repos from GitHub to GitLab
 
 - Looking for my personal creations? Head to [GitLab](https://gitlab.com/PranavDalvi)
+- Linktree Profile [@pranav.dalvi](https://linktr.ee/pranav.dalvi)
 <!-- 💞️ I’m looking to collaborate on-->
 
 <!---
