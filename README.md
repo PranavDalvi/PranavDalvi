@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript & ReactJS
 - 📫 contact me on Email id: pranavdalvi627@gmail.com
+- Currently I shifted my repos from GitHub to GitLab
 
 - Looking for my personal creations? Head to [GitLab](https://gitlab.com/PranavDalvi)
 <!-- 💞️ I’m looking to collaborate on-->
