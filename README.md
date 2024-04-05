@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PranavDalvi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP, Django
-- 📫 contact me on Email id: pranavdalvi627@gmail.com
+- 📫 contact me on Email id: pranav.dalvi932@gmail.com
 
 - Looking for my random stuff? Head to [GitLab](https://gitlab.com/PranavDalvi)
 - Linktree Profile [@pranav.dalvi](https://linktr.ee/pranav.dalvi)
