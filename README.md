@@ -1,6 +1,7 @@
 <h1 align="center">
-  Hello There, I'm Pranav Dalvi let's Connect and have a Chat!💬
+  Hello There!!
 </h1>
+
 <p align="center">
   <a href="https://linktr.ee/pranav.dalvi">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
