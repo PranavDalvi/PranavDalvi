@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello There!!
+  Hello There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px"/> I'm Pranav Dalvi
 </h1>
 
 <p align="center">
@@ -10,6 +10,9 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 </p>
+
+---
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavDalvi&theme=github_dark&hide=tex&langs_count=9&layout=compact" alt="My most used languages" /></p>
 
 ---
 
