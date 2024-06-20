@@ -12,7 +12,7 @@
 </p>
 
 ---
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavDalvi&theme=github_dark&hide=tex&langs_count=9&layout=compact" alt="My most used languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavDalvi&theme=github_dark&hide=tex&size_weight=0.5&count_weight=1&layout=compact" alt="My most used languages" /></p>
 
 ---
 
