@@ -12,5 +12,12 @@
 </p>
 
 ---
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavDalvi&theme=github_dark&hide=tex&size_weight=0.5&count_weight=1&layout=compact" alt="My most used languages" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavDalvi&theme=github_dark&hide=tex&size_weight=0.5&count_weight=1&layout=compact" alt="My most used languages" />
+  <br/>
+  <a href="https://leetcode.com/u/pranavd128/">
+    <img src="https://leetcard.jacoblin.cool/pranavd128?ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+
 
